@@ -1,0 +1,27 @@
+body{
+background-color: lightgrey;
+}
+
+.box-1 {
+  height: 25%;
+  weidth: 100%;
+  background-color: gray; 
+  float:top;
+  margin: 0px 0px 0px 0px;
+}
+
+.box-2 {
+    height: 80%;
+    weidth: 80px;
+    background-color: white;
+    float:center;
+    margin: 0px 75px 0px 75px;
+}
+
+.box-3 {
+    height: 50px;
+    weidth: 25px;
+    background-color: black;
+    float: bottom;
+    margin: 0px 75px 0px 75px;
+}
