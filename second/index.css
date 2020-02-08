@@ -6,6 +6,7 @@ padding: 25px;
 h1 {
     color:rgb(16, 16, 139);
     text-align: center;
+    
 }
 
 .blackOutline {
@@ -36,17 +37,17 @@ h1 {
 .blueCircle {
     background: lightblue;
     border-radius: 80%;
-    margin: 10px 10px 10px 10px;
+    margin: 10px 500px 10px 10px;
     width: 200px;
     height: 180px;
     float: right;
+  
     
 }
 
 .dotBox {
     margin: 10px 10px 10px 10px;
     border: 5px dotted black;
-    padding:
     width: 100%;
     height:35%;
     box-sizing: border-block;
@@ -68,7 +69,6 @@ h1 {
     height:30%;
     display: inline-block;
     padding: 120px 10px 5px 5px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 4rem 0rem 0rem 20rem;
     
 }
